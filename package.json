@@ -2,7 +2,7 @@
   "name": "trydo",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://main.d30jn5tl3dx64d.amplifyapp.com/",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",

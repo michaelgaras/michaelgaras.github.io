@@ -87,7 +87,7 @@ class PortfolioLanding extends Component {
                             Hi, I’m Michael Garas <br />
                             <TextLoop>
                               <Typist>
-                                <span>Application Developer.</span>
+                                <span>App Developer.</span>
                               </Typist>
 
                               <Typist>
@@ -95,7 +95,7 @@ class PortfolioLanding extends Component {
                               </Typist>
 
                               <Typist>
-                                <span>Full Stack Developer.</span>
+                                <span>Fullstack Developer.</span>
                               </Typist>
 
                               <Typist>

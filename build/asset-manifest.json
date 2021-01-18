@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.4fccc5bb.chunk.css",
-    "main.js": "./static/js/main.6f64b2fa.chunk.js",
-    "main.js.map": "./static/js/main.6f64b2fa.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.6ced0119.js",
-    "runtime~main.js.map": "./static/js/runtime~main.6ced0119.js.map",
-    "static/css/2.67a97fca.chunk.css": "./static/css/2.67a97fca.chunk.css",
-    "static/js/2.f8b07f24.chunk.js": "./static/js/2.f8b07f24.chunk.js",
-    "static/js/2.f8b07f24.chunk.js.map": "./static/js/2.f8b07f24.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.0f702f9e5e94a9345e64e69ac8a63c57.js": "./precache-manifest.0f702f9e5e94a9345e64e69ac8a63c57.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.67a97fca.chunk.css.map": "./static/css/2.67a97fca.chunk.css.map",
-    "static/css/main.4fccc5bb.chunk.css.map": "./static/css/main.4fccc5bb.chunk.css.map",
-    "static/js/2.f8b07f24.chunk.js.LICENSE.txt": "./static/js/2.f8b07f24.chunk.js.LICENSE.txt",
-    "static/media/MG_Resume.pdf": "./static/media/MG_Resume.718c9ea6.pdf",
-    "static/media/index.scss": "./static/media/slick.f97e3bbf.svg"
+    "main.css": "/static/css/main.4fccc5bb.chunk.css",
+    "main.js": "/static/js/main.c0e40a45.chunk.js",
+    "main.js.map": "/static/js/main.c0e40a45.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.402cc814.js",
+    "runtime~main.js.map": "/static/js/runtime~main.402cc814.js.map",
+    "static/css/2.bf0d52dc.chunk.css": "/static/css/2.bf0d52dc.chunk.css",
+    "static/js/2.f8b07f24.chunk.js": "/static/js/2.f8b07f24.chunk.js",
+    "static/js/2.f8b07f24.chunk.js.map": "/static/js/2.f8b07f24.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0c6b564fe946e3e2df776c5d1f883532.js": "/precache-manifest.0c6b564fe946e3e2df776c5d1f883532.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf0d52dc.chunk.css.map": "/static/css/2.bf0d52dc.chunk.css.map",
+    "static/css/main.4fccc5bb.chunk.css.map": "/static/css/main.4fccc5bb.chunk.css.map",
+    "static/js/2.f8b07f24.chunk.js.LICENSE.txt": "/static/js/2.f8b07f24.chunk.js.LICENSE.txt",
+    "static/media/MG_Resume.pdf": "/static/media/MG_Resume.718c9ea6.pdf",
+    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
   }
 }
